@@ -1,4 +1,4 @@
-# tryYourTest
+# tryYourself
 
 
 You can run a React Js Web App with sample template and add your examples basicly.
