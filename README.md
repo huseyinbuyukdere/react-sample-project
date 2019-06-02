@@ -1,10 +1,13 @@
-# tryYourself
+# react-sample-project
 
 
 You can run a React Js Web App with sample template and add your examples basicly.
 
-Before start you need install packages -> npm install 
+Run
+------------
+First install npm packages and run.
 
+    npm install 
+    npm start
 
-After you can run it -> npm start
 
